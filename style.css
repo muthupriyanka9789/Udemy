@@ -111,6 +111,7 @@ body{
     width: 35%;
     border: solid black 2px;
     background-color: white;
+    border-radius: 20px;
     padding: 2%;
     position: absolute;
     top: 35%;
