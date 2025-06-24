@@ -112,8 +112,8 @@ body{
     background-color: white;
     padding: 2%;
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 35%;
+    left: 3%;
     animation-name: zoom;
     animation-duration: 2s;
     opacity: 0;
